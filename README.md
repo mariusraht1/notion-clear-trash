@@ -6,15 +6,15 @@ A small script to clear the trash from Notion
 
 1. Clone the repository
 ```bash
-git clone https://github.com/w4v3s/notion-clear-trash.git
+git clone https://github.com/mariusraht1/notion-clear-trash.git
 ```
 2. Install requirements
 ```bash
-pip3 install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 3. Run python script
 ```bash
-python3 notion-clear-trash.py
+py notion-clear-trash.py
 ```
 
 ### How to Retrieve the Auth Token (in Chrome)
